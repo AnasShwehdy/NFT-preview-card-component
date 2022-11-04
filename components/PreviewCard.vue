@@ -22,7 +22,7 @@
                         <EthIcon /> <span class="px-2 cost">0.041ETH</span>
                     </v-col>
                     <v-col cols="auto" class="d-flex align-center">
-                        <ClockIcon /> <span class="px-2 time">3 days off</span>
+                        <ClockIcon /> <span class="px-2 time">3 days left</span>
                     </v-col>
                 </v-row>
                 <v-divider color="#2f415b"></v-divider>
