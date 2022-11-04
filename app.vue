@@ -7,7 +7,7 @@
       <v-col cols="12">
         <footer class="attribution mt-n8">
           Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
-          Coded by <a href="https://github.com/JustCandi" target="_blank">@JustCandi</a>.
+          Coded by <a href="https://twitter.com/AnasShwehdy" target="_blank">@AnasShwehdy</a>.
         </footer>
       </v-col>
     </v-row>
